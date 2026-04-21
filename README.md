@@ -1,3 +1,3 @@
 # First-Repo
 This is my first Repository
-Author name tejasvini Salla.
+Author name tejasvini Soni.
